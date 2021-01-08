@@ -84,8 +84,9 @@ public class Hooks {
 				Runtime.getRuntime().addShutdownHook(new Thread(new BrowserCleanup()));
 			}
 
-			driver.get("http://demo.guru99.com/v4");
 			driver.manage().window().maximize();
+			driver.get("http://demo.guru99.com/v4");
+
 //			driver.get("http://google.com.vn");
 
 

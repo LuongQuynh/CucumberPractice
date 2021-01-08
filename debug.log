@@ -1,0 +1,4 @@
+[0108/171510.967:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\admin\AppData\Local\Temp\scoped_dir16452_1371246616\Crashpad\attachments\6b154e84-2778-443f-aa80-5650972eb793: The system cannot find the path specified. (0x3)
+[0108/171619.118:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\admin\AppData\Local\Temp\scoped_dir9932_1629823546\Crashpad\attachments\93ff7be1-01fc-4406-a0dc-ada6a8d576c4: The system cannot find the path specified. (0x3)
+[0108/171840.610:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\admin\AppData\Local\Temp\scoped_dir14468_1503490486\Crashpad\attachments\2e32b196-a159-4612-8913-862b9d2b2758: The system cannot find the path specified. (0x3)
+[0108/172151.825:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\admin\AppData\Local\Temp\scoped_dir3016_1765182961\Crashpad\attachments\193d07a5-c3f7-43a3-8f78-565aeefcdd36: The system cannot find the path specified. (0x3)

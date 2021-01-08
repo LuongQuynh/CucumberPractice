@@ -232,6 +232,9 @@ public class AbstractPage {
 		driver.manage().timeouts().implicitlyWait(timeout, TimeUnit.SECONDS);
 	}
 
+
+
+
 	public boolean isElementDisplayed(String locator, String... values) {
 		locator = castRestParameter(locator, values);
 		overideGlobalTimeout(shortTimeout);

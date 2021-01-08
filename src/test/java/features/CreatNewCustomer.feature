@@ -8,6 +8,7 @@
         And I choose gender
         And I input "<date_of_birth>"
         And I input "<address>" into address field
+        And I input "<city>" into city field
         And I input "<state>" into state field
         And I input "<pin>" into pin field
         And I input "<mobile_phone>" into mobile number field
@@ -18,5 +19,5 @@
 
 
         Examples:
-        |name      |date_of_birth|address|state  |pin |mobile_phone|email          |password|
-        |quynhluong|25/11/1995   |HaNoi  |VietNam|1000|097892345   |quynh@gmail.com|test123 |
+        |name |date_of_birth|address  |city    |state  |pin   |mobile_phone|email          |password|
+        |quin|11/25/1995   |Vinh Yen|Ha Noi  |VietNam|100000|097892345   |quynh2@gmail.com|test123 |
